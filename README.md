@@ -18,8 +18,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/airbnb-scraper.git
-   cd airbnb-scraper
+   git clone git@github.com:MDFARHYN/airbnbScraping.git
+   cd airbnbScraping
    ```
 2. Install dependencies:
    ```bash
