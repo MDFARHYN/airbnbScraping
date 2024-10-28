@@ -198,7 +198,7 @@ scraped_data = []
 
 
 # Scrape the details page for each URL stored in the url_list  
-for url in url_list[:5]:
+for url in url_list:
     print(f"Scraping details from: {url}")
     data = scrape_details_page(url)
     if data:
