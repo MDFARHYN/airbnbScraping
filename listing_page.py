@@ -24,7 +24,7 @@ stealth(driver,
         )
 
 
-# Navigate to the listing page
+# base url or page1 url
 url = "https://www.airbnb.com/s/United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-11-01&monthly_length=3&monthly_end_date=2025-02-01&price_filter_input_type=0&channel=EXPLORE&query=United%20States&place_id=ChIJCzYy5IS16lQRQrfeQ5K5Oxw&date_picker_type=calendar&source=structured_search_input_header&search_type=user_map_move&search_mode=regular_search&price_filter_num_nights=5&ne_lat=78.7534545389953&ne_lng=17.82560738379206&sw_lat=-36.13028852123955&sw_lng=-124.379810004604&zoom=2.613816079556603&zoom_level=2.613816079556603&search_by_map=true"
 driver.get(url)
 
