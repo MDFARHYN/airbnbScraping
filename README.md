@@ -30,10 +30,10 @@
 
 ## 📖 Usage
 
-1. Open `airbnb_scraper.py` and configure the target URL and number of pages to scrape.
+1. Open `pagenation.py` and configure the target URL and number of pages to scrape.
 2. Run the scraper:
    ```bash
-   python airbnb_scraper.py
+   python pagenation.py
    ```
 3. Data will be saved to `airbnb_data.csv` in the project directory.
 
@@ -49,7 +49,8 @@
 ## 📺 Tutorials and Blog
 
 - [📹 YouTube Tutorial](https://youtube.com) - Watch how to set up and use this scraper.
-- [📝 Blog Post](https://yourblog.com) - Step-by-step guide to build and customize the scraper.
+- [📝 Blog Post](https://rayobyte.com/community/scraping-project/airbnb-web-scraping-with-python-extract-listings-and-pricing-data/) - Step-by-step guide to build and customize the scraper.
+- [🌐 My Website](https://farhyn.com/) - Visit my website for more projects and updates.
 
 ---
 
